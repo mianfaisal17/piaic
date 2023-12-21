@@ -169,6 +169,8 @@ console.log("Initial Array:", letArray);
 let subArray: number[] = letArray.slice(11, 14); 
 console.log("Subarray:", subArray);
 console.log("Array after slice:", letArray);
+console.log("Testing");
+
 
     
 
